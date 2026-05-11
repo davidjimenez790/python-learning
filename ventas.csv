@@ -1,0 +1,11 @@
+id,producto,categoria,cantidad,precio_unitario,total,fecha
+1,Laptop Dell,Tecnología,2,800,1600,2024-01-15
+2,Mouse Logitech,Tecnología,5,25,125,2024-01-16
+3,Escritorio,Muebles,1,650,650,2024-01-17
+4,Teclado,Tecnología,3,45,135,2024-01-18
+5,Silla Ergonómica,Muebles,2,550,1100,2024-01-19
+6,Monitor LG,Tecnología,1,400,400,2024-01-20
+7,Libreta,Papelería,10,8,80,2024-01-21
+8,Impresora HP,Tecnología,1,520,520,2024-01-22
+9,Lámpara,Muebles,3,45,135,2024-01-23
+10,Auriculares Sony,Tecnología,2,250,500,2024-01-24
